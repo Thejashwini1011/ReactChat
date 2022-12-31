@@ -18,7 +18,7 @@ Users are able to join groups and message other users in real-time.
 
 <p align="center">
 <h5>New User-1 Joining</h5>
-    <img src="https://github.com/Thejashwini1011/ReactChat/blob/92be79c9ba840831d4afc0beb51b2c9a6af51398/Screenshots/Screenshot%20(1).png">  
+    <img src="https://github.com/Thejashwini1011/ReactChat/blob/main/Screenshots/Screenshot%20(1).png">  
 </p>
 
 
