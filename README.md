@@ -18,50 +18,8 @@ Users are able to join groups and message other users in real-time.
 
 <p align="center">
 <h5>New User-1 Joining</h5>
-    <img src="https://github.com/Thejashwini1011/ReactChat/blob/main/Screenshots/Screenshot%20(1).png">  
+    <img style="height:200px;width:200px;" src="https://github.com/Thejashwini1011/ReactChat/blob/main/Screenshots/Screenshot%20(1).png">  
 </p>
-
-
-<p align="center">
-<h5>New User-2 Joining</h5>
-    <img src="https://github.com/Thejashwini1011/ReactChat/blob/92be79c9ba840831d4afc0beb51b2c9a6af51398/Screenshots/Screenshot%20(2).png">  
-</p>
-
-
-<p align="center">
-<h5>Chat Initiation</h5>
-    <img src="https://github.com/Thejashwini1011/ReactChat/blob/92be79c9ba840831d4afc0beb51b2c9a6af51398/Screenshots/Screenshot%20(3).png">  
-</p>
-
-
-<p align="center">
-<h5>Chat View</h5>
-    <img src="https://github.com/Thejashwini1011/ReactChat/blob/92be79c9ba840831d4afc0beb51b2c9a6af51398/Screenshots/Screenshot%20(4).png">  
-</p>
-
-
-<p align="center">
-<h5>Chat View</h5>
-    <img src="https://github.com/Thejashwini1011/ReactChat/blob/92be79c9ba840831d4afc0beb51b2c9a6af51398/Screenshots/Screenshot%20(5).png">  
-</p>
-
-
-<p align="center">
-<h5>Chat View</h5>
-    <img src="https://github.com/Thejashwini1011/ReactChat/blob/92be79c9ba840831d4afc0beb51b2c9a6af51398/Screenshots/Screenshot%20(6).png">  
-</p>
-
-
-<p align="center">
-<h5>Emoji Usage</h5>
-    <img src="https://github.com/Thejashwini1011/ReactChat/blob/92be79c9ba840831d4afc0beb51b2c9a6af51398/Screenshots/Screenshot%20(7).png">  
-</p>
-
-<p align="center">
-<h5>Emoji Usage</h5>
-    <img src="https://github.com/Thejashwini1011/ReactChat/blob/92be79c9ba840831d4afc0beb51b2c9a6af51398/Screenshots/Screenshot%20(8).png">  
-</p>
-
 
 
 
