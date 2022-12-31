@@ -1,5 +1,5 @@
 # React Real-Time Chat App
-### Demo Video:
+
 
 ### About:
 
