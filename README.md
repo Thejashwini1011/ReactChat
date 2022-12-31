@@ -71,7 +71,14 @@ yarn install OR npm install
 2) Run the start script
 
 ``` 
+yarn install @tinymce/tinymce-react start OR npm install @tinymce/tinymce-react
+```
+
+3) Run the start script
+
+``` 
 yarn run start OR npm run start
 ```
+
 
 Your app should be running on: http://localhost:3000
