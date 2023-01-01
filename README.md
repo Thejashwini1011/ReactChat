@@ -46,10 +46,10 @@ git clone <CloneURL>
 
 ### Launch the Server
 
-1)	Within terminal or cmd ensure you have navigated inside the 'Server' directory and installed the dependencies
+1)	Within terminal or cmd ensure you have navigated inside the 'server' directory and installed the dependencies
 
 ```
-cd <../path/to/Server> 
+cd <../path/to/server> 
 yarn install OR npm install
 ```
 
@@ -61,10 +61,10 @@ yarn run start OR npm run start
 
 ### Launch the Client
 
-1) Open a new terminal window and navigate inside the 'Client' folder as you will need to keep the backend running in the background
+1) Open a new terminal window and navigate inside the 'client' folder as you will need to keep the backend running in the background
 
 ```
-cd <../path/to/Client> 
+cd <../path/to/client> 
 yarn install OR npm install
 ```
 
