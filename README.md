@@ -53,10 +53,10 @@ cd <../path/to/server>
 yarn install OR npm install
 ```
 
-2) Run the start script
+2) Run the server
 
 ``` 
-yarn run start OR npm run start
+npm run dev
 ```
 
 ### Launch the Client
@@ -68,13 +68,13 @@ cd <../path/to/client>
 yarn install OR npm install
 ```
 
-2) Run the start script
+2) For Editor
 
 ``` 
 yarn install @tinymce/tinymce-react start OR npm install @tinymce/tinymce-react
 ```
 
-3) Run the start script
+3) Run the client
 
 ``` 
 yarn run start OR npm run start
